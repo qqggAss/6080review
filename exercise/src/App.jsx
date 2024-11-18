@@ -1,12 +1,10 @@
 import "./App.css";
-// import { Exercise1 } from "./exercise/week1/css-generate-simple-box";
-import { Exercise2 } from "./exercise/week1/css-replicate-airbnb";
+import { Exercise3 } from "./exercise/week1/css-replicate-simple-layout";
 
 const App = () => {
   return (
     <>
-      {/* <Exercise1 /> */}
-      <Exercise2 />
+      <Exercise3 />
     </>
   );
 };
