@@ -1,10 +1,10 @@
 import "./App.css";
-import { Exercise3 } from "./exercise/week1/css-replicate-simple-layout";
+import { Exercise4 } from "./exercise/week1/css-image-backgrounds.jsx";
 
 const App = () => {
   return (
     <>
-      <Exercise3 />
+      <Exercise4 />
     </>
   );
 };

@@ -86,7 +86,10 @@ const Exercise3 = () => {
             before:bg-black 颜色
             before:rounded-full 相当于通过radius设置成圆形
             */}
-            {/* 加粗也可以用strong b 或者包起来添加css */}
+            {/* 
+            加粗也可以用strong b 或者包起来添加css
+            用ul li实现 可以保证格式对齐
+            */}
             <div
               className="relative pl-16 before:content-[''] before:absolute before:top-11 before:left-10 before:w-2 before:h-2 before:bg-black before:rounded-full
             flex flex-col items-start"
